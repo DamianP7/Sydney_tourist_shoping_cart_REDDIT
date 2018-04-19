@@ -1,3 +1,3 @@
-# Sydney_tourist_shoping_cart_REDDIT
+# Sydney tourist shoping cart
 
 One of many challenges on reddit (r/DailyProgrammer)
